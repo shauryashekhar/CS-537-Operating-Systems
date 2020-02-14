@@ -1,0 +1,1 @@
+cd xv6; ../../tester/run-xv6-command.exp CPUS=1 Makefile.test test_13 | grep SYMLINK; cd ..

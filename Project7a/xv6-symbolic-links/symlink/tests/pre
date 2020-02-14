@@ -1,0 +1,20 @@
+cp -f tests/test_1.c xv6/test_1.c
+cp -f tests/test_2.c xv6/test_2.c
+cp -f tests/test_3.c xv6/test_3.c
+cp -f tests/test_4.c xv6/test_4.c
+cp -f tests/test_5.c xv6/test_5.c
+cp -f tests/test_6.c xv6/test_6.c
+cp -f tests/test_7.c xv6/test_7.c
+cp -f tests/test_8.c xv6/test_8.c
+cp -f tests/test_9.c xv6/test_9.c
+cp -f tests/test_10.c xv6/test_10.c
+cp -f tests/test_11.c xv6/test_11.c
+cp -f tests/test_12.c xv6/test_12.c
+cp -f tests/test_13.c xv6/test_13.c
+cp -f tests/test_14.c xv6/test_14.c
+cp -f tests/test_15.c xv6/test_15.c
+cp -f tests/test_16.c xv6/test_16.c
+cp -f tests/test_17.c xv6/test_17.c
+cp -f tests/test_18.c xv6/test_18.c
+
+

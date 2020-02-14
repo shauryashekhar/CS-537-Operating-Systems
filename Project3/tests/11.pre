@@ -1,0 +1,8 @@
+echo "ls tests/p2a-test > ./tests-out/output11" > tests/11.out 2> tests/11.err
+ls tests/p2a-test > ./tests-out/output11 2> ./tests-out/output11
+echo "cat ./tests-out/output11" >> tests/11.out 2>> tests/11.err
+cat ./tests-out/output11 >> tests/11.out 2>> tests/11.err
+echo "rm -f ./tests-out/output11" >> tests/11.out 2>> tests/11.err
+rm -f ./tests-out/output11 >> tests/11.out 2>> tests/11.err
+echo "exit" >> tests/11.out 2>> tests/11.err
+

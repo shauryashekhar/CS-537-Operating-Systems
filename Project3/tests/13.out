@@ -1,0 +1,12 @@
+echo "0"
+"0"
+sleep 2 &
+echo "2"
+"2"
+
+
+
+jobs
+1 : sleep 2
+jobs
+1 : sleep 2

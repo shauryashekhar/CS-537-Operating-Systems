@@ -1,0 +1,4 @@
+SYMLINK: Symlink return = 0
+SYMLINK:.              1 21
+SYMLINK:..             1 1
+SYMLINK:testSYM9.txt   2 20

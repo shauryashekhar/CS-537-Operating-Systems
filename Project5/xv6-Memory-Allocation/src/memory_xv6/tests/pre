@@ -1,0 +1,11 @@
+../tester/xv6-edit-makefile.sh v1a/Makefile test_1,test_2,test_3,test_4 > v1a/Makefile.test    
+cp -f tests/test_1.c v1a/test_1.c
+cp -f tests/test_2.c v1a/test_2.c
+cp -f tests/test_3.c v1a/test_3.c
+cp -f tests/test_4.c v1a/test_4.c
+
+cd v1a
+make -f Makefile.test clean
+make -f Makefile.test xv6.img
+make -f Makefile.test fs.img
+cd ..

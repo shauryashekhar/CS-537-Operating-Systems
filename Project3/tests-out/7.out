@@ -1,0 +1,18 @@
+ls -a
+.
+..
+.__afsE5F3
+commands
+cpplint.out
+Makefile
+mysh
+mysh.c
+output
+output.c
+test
+test.c
+tester
+tests
+tests-out
+echo "This is the last command"
+"This is the last command"

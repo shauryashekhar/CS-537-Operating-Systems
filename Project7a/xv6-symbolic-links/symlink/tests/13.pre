@@ -1,0 +1,9 @@
+cp -f ./Makefile.test xv6/.
+
+../tester/xv6-edit-makefile.sh xv6/Makefile test_13 > xv6/Makefile.test    
+
+cd xv6
+make -f Makefile.test clean > /dev/zero
+make -f Makefile.test xv6.img > /dev/zero
+make -f Makefile.test fs.img > /dev/zero
+cd ..

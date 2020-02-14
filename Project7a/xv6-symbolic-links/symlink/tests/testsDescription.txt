@@ -1,0 +1,18 @@
+1. Creation of symlink using absolute path
+2. Opening and reading of file using a symlink
+3. Close the file using a created symlink
+4. Open the file and edit its contents using a created symlink
+5. Creation of symlink using relative path
+6. Opening and reading of file using the above created symlink
+7. Close the file using the above created symlink
+8. Open the file and edit its contents using the above created symlink
+9. Creation of symlink using absolute path (in a different directory)
+10. Opening and reading of file using the above created symlink
+11. Close the file using the above created symlink
+12. Open the file and edit its contents using the above created symlink
+13. Creating a symlink with an existing symlink name. Should display ERROR.
+14. Creating a symlink with an invalid path. Should not be an ERROR.
+15. Openning a symlink with an invalid target file. Should display ERROR.
+16. Deleting the file and then trying to access the file using the symlink. Should display an ERROR.
+17. Testing unlink for a symlink in the same directory. The original file should exist.
+18. Testing unlink for a symlink in a different directory.

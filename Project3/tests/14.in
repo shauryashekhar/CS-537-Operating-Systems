@@ -1,0 +1,5 @@
+sleep 1 &
+wait 0
+sleep 1 &
+wait 1
+

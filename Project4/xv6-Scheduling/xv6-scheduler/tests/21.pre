@@ -1,0 +1,14 @@
+cp -f src/Makefile src/Makefile.test
+
+for i in $(seq 21 30); do
+    ../tester/xv6-edit-makefile.sh src/Makefile.test test_$i > src/Makefile.temp
+	cp -f src/Makefile.temp src/Makefile.test
+    cp -f tests/test_$i.c src/test_$i.c
+done
+
+cd src
+make -f Makefile.test clean 1>/dev/null 2>&1
+make -f Makefile.test xv6.img 1>/dev/null 2>&1
+make -f Makefile.test fs.img 1>/dev/null 2>&1
+cd ..
+

@@ -1,0 +1,1 @@
+cd v1a; ../../tester/run-xv6-command.exp CPUS=1 Makefile.test test_2; cd ..

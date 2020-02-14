@@ -1,0 +1,4 @@
+echo this is ok
+this is ok
+wait 0 &
+exit &

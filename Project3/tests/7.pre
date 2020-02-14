@@ -1,0 +1,4 @@
+echo "ls -a" > tests/7.out 2> tests/7.err
+ls -a >> tests/7.out 2>> tests/7.err
+echo "echo \"This is the last command\"" >> tests/7.out 2>> tests/7.err
+echo "\"This is the last command\"" >> tests/7.out 2>> tests/7.err

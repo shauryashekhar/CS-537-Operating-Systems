@@ -1,0 +1,15 @@
+mysh.c:100:  Consider using strtok_r(...) instead of strtok(...) for improved thread safety.  [runtime/threadsafe_fn] [2]
+mysh.c:102:  Consider using strtok_r(...) instead of strtok(...) for improved thread safety.  [runtime/threadsafe_fn] [2]
+mysh.c:163:  Should have a space between // and comment  [whitespace/comments] [4]
+mysh.c:170:  Consider using strtok_r(...) instead of strtok(...) for improved thread safety.  [runtime/threadsafe_fn] [2]
+mysh.c:171:  Consider using strtok_r(...) instead of strtok(...) for improved thread safety.  [runtime/threadsafe_fn] [2]
+mysh.c:194:  Consider using strtok_r(...) instead of strtok(...) for improved thread safety.  [runtime/threadsafe_fn] [2]
+mysh.c:313:  Should have a space between // and comment  [whitespace/comments] [4]
+Done processing mysh.c
+output.c:0:  No copyright message found.  You should have a line: "Copyright [year] <Copyright Owner>"  [legal/copyright] [5]
+output.c:71:  Using C-style cast.  Use static_cast<float>(...) instead  [readability/casting] [4]
+Done processing output.c
+test.c:0:  No copyright message found.  You should have a line: "Copyright [year] <Copyright Owner>"  [legal/copyright] [5]
+test.c:6:  Should have a space between // and comment  [whitespace/comments] [4]
+Done processing test.c
+Total errors found: 11

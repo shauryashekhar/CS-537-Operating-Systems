@@ -1,0 +1,35 @@
+Abby’s Test Case Descriptions
+
+1.Testing that loop is runnable
+2.Testing that userRR is runnable
+3.Test that set_pri correctly sets the priority (Uses get_pri)
+4.Tests for error return value from set_pri for invalid PID
+5.Tests for error return value from set_pri for invalid priority
+6.Tests for error return value from get_pri for invalid PID
+7.Tests that getpinfo correctly updates pstat after forking 2 processes and setting their priorities
+8.Tests for error return value from getpinfo for null stat pointer
+9.Tests that fork2 forks a child and sets its priority properly
+10.Tests for error return value from fork2 for invalid priority
+11.Checks round robin behavior of one child process in priority queue 2
+12.Checks round robin behavior of two child processes in priority queue 2
+13.Checks round robin behavior of one child process in priority queue 1
+14.Checks round robin behavior of two child processes in priority queue 1
+15.Checks round robin behavior of one child process in priority queue 0
+16.Checks round robin behavior of two child processes in priority queue 0
+17.Checks round robin behavior of ten child process in priority queue 2
+18.Checks qtail behavior for one process calling sleep repeatedly in priority queue 2
+19.Checks qtail behavior for one process calling sleep repeatedly in priority queue 1
+20.Checks qtail behavior for one process calling sleep repeatedly in priority queue 0
+21.Checks qtail behavior for two processes calling sleep repeatedly in priority queue 2
+22.Checks qtail behavior for two processes calling sleep repeatedly in priority queue 1
+23.Checks qtail behavior for two processes calling sleep repeatedly in priority queue 0
+24.Checks qtail behavior for ten processes calling sleep repeatedly in priority queue 2
+25.Checks if priority level 2 processes would run before level 3 processes
+26.Checks if priority level 1 processes would run before level 3 processes
+27.Checks if priority level 0 processes would run before level 3 processes
+28.More sophisticated priority check with processes on all levels
+29.More sophisticated priority check with processes on all levels
+30.More sophisticated priority check with processes on all levels
+31.Check the behavior when a process with higher level priority comes in
+32.Check the behavior when a process with higher level priority comes in
+33~.Random pressure testing

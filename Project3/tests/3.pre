@@ -1,0 +1,7 @@
+echo whoami > tests/3.out 2> tests/3.err
+whoami >> tests/3.out 2>> tests/3.err
+echo "ls" >> tests/3.out
+ls >> tests/3.out 2>> tests/3.err
+echo "sleep 1" >> tests/3.out
+sleep 1 >> tests/3.out 2>> tests/3.err
+echo exit >> tests/3.out

@@ -1,0 +1,4 @@
+echo this is ok
+wait 0 &
+exit &
+echo THIS SHOULD NOT PRINT

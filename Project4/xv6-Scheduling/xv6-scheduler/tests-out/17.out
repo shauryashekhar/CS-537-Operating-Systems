@@ -1,0 +1,1800 @@
+XV6_SCHEDULER	 CHILD 1
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 2
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 0
+XV6_SCHEDULER	 	 level 2 qtail 1
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 3
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 0
+XV6_SCHEDULER	 	 level 2 qtail 1
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 4
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 0
+XV6_SCHEDULER	 	 level 2 qtail 1
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 5
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 0
+XV6_SCHEDULER	 	 level 2 qtail 1
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 6
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 0
+XV6_SCHEDULER	 	 level 2 qtail 1
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 7
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 0
+XV6_SCHEDULER	 	 level 2 qtail 1
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 8
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 0
+XV6_SCHEDULER	 	 level 2 qtail 1
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 9
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 0
+XV6_SCHEDULER	 	 level 2 qtail 1
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 10
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 0
+XV6_SCHEDULER	 	 level 2 qtail 1
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 1
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 2
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 3
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 0
+XV6_SCHEDULER	 	 level 2 qtail 1
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 4
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 0
+XV6_SCHEDULER	 	 level 2 qtail 1
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 5
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 0
+XV6_SCHEDULER	 	 level 2 qtail 1
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 6
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 0
+XV6_SCHEDULER	 	 level 2 qtail 1
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 7
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 0
+XV6_SCHEDULER	 	 level 2 qtail 1
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 8
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 0
+XV6_SCHEDULER	 	 level 2 qtail 1
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 9
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 0
+XV6_SCHEDULER	 	 level 2 qtail 1
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 10
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 0
+XV6_SCHEDULER	 	 level 2 qtail 1
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 1
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 2
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 3
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 4
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 0
+XV6_SCHEDULER	 	 level 2 qtail 1
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 5
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 0
+XV6_SCHEDULER	 	 level 2 qtail 1
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 6
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 0
+XV6_SCHEDULER	 	 level 2 qtail 1
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 7
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 0
+XV6_SCHEDULER	 	 level 2 qtail 1
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 8
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 0
+XV6_SCHEDULER	 	 level 2 qtail 1
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 9
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 0
+XV6_SCHEDULER	 	 level 2 qtail 1
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 10
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 0
+XV6_SCHEDULER	 	 level 2 qtail 1
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 1
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 2
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 3
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 4
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 5
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 0
+XV6_SCHEDULER	 	 level 2 qtail 1
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 6
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 0
+XV6_SCHEDULER	 	 level 2 qtail 1
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 7
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 0
+XV6_SCHEDULER	 	 level 2 qtail 1
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 8
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 0
+XV6_SCHEDULER	 	 level 2 qtail 1
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 9
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 0
+XV6_SCHEDULER	 	 level 2 qtail 1
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 10
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 0
+XV6_SCHEDULER	 	 level 2 qtail 1
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 1
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 2
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 3
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 4
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 5
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 6
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 0
+XV6_SCHEDULER	 	 level 2 qtail 1
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 7
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 0
+XV6_SCHEDULER	 	 level 2 qtail 1
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 8
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 0
+XV6_SCHEDULER	 	 level 2 qtail 1
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 9
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 0
+XV6_SCHEDULER	 	 level 2 qtail 1
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 10
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 0
+XV6_SCHEDULER	 	 level 2 qtail 1
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 1
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 2
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 3
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 4
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 5
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 6
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 7
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 0
+XV6_SCHEDULER	 	 level 2 qtail 1
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 8
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 0
+XV6_SCHEDULER	 	 level 2 qtail 1
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 9
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 0
+XV6_SCHEDULER	 	 level 2 qtail 1
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 10
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 0
+XV6_SCHEDULER	 	 level 2 qtail 1
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 1
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 2
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 3
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 4
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 5
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 6
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 7
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 8
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 0
+XV6_SCHEDULER	 	 level 2 qtail 1
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 9
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 0
+XV6_SCHEDULER	 	 level 2 qtail 1
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 10
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 0
+XV6_SCHEDULER	 	 level 2 qtail 1
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 1
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 2
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 3
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 4
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 5
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 6
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 7
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 8
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 9
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 0
+XV6_SCHEDULER	 	 level 2 qtail 1
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 10
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 0
+XV6_SCHEDULER	 	 level 2 qtail 1
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 1
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 2
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 3
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 4
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 5
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 6
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 7
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 8
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 9
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 10
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 0
+XV6_SCHEDULER	 	 level 2 qtail 1
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 1
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 2
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 3
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 4
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 5
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 6
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 7
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 8
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 9
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 10
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 1
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 2
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 3
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 4
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 5
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 6
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 7
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 8
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 9
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 10
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 1
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 2
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 3
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 4
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 5
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 6
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 7
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 8
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 9
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 10
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 1
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 2
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 3
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 4
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 5
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 6
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 7
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 8
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 9
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 10
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 1
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 2
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 3
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 4
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 5
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 6
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 7
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 8
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 9
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 10
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 1
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 2
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 3
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 4
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 5
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 6
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 7
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 8
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 9
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 10
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 1
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 2
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 3
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 4
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 5
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 6
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 7
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 8
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 9
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 10
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 1
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 2
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 3
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 4
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 5
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 6
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 7
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 8
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 9
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 10
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 1
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 2
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 3
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 4
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 5
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 6
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 7
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 8
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 9
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 10
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 1
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 2
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 3
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 4
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 5
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 6
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 7
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 8
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 9
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 10
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 12
+XV6_SCHEDULER	 	 level 2 qtail 2
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 1
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 2
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 3
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 4
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 5
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 6
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 7
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 8
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 9
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
+XV6_SCHEDULER	 CHILD 10
+XV6_SCHEDULER	 	 level 3 ticks used 0
+XV6_SCHEDULER	 	 level 3 qtail 0
+XV6_SCHEDULER	 	 level 2 ticks used 24
+XV6_SCHEDULER	 	 level 2 qtail 3
+XV6_SCHEDULER	 	 level 1 ticks used 0
+XV6_SCHEDULER	 	 level 1 qtail 0
+XV6_SCHEDULER	 	 level 0 ticks used 0
+XV6_SCHEDULER	 	 level 0 qtail 0
