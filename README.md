@@ -7,5 +7,5 @@
 4. xv6 Scheduling
 5. xv6 Memory Allocation
 6. 
-7a. xv6 Symbolic Links
-7b. xv6 File System Checker
+7. a) xv6 Symbolic Links
+7. b) xv6 File System Checker
